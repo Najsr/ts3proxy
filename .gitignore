@@ -2,3 +2,7 @@
 *.pyc
 *.sublime-project
 *.sublime-workspace
+
+*.log
+
+*.txt
